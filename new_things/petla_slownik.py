@@ -44,8 +44,7 @@ def get_domain(email):
     # for linijka in plik:
     #     print(linijka, end='')
 
-# II sposób
-
+# II sposób .
 gmail = 0
 kancelaria = 0
 others = 0

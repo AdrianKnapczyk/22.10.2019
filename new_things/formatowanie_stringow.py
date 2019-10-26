@@ -13,3 +13,4 @@
 #
 # print("Twoje imię to: {}, a nazwisko to: {}".format(name.capitalize(),nazwisko.capitalize()))
 
+print()
